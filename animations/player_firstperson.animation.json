@@ -1,0 +1,15 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.player.first_person.map_hold_off_hand": {
+			"loop": true,
+			"bones": {
+				"leftarm": {
+					"position": ["0.0", "0.0", "0.0"],
+					"rotation": [195, 182.5, 2.5],
+					"scale": [0, 0, 0]
+				}
+			}
+		}
+	}
+}
