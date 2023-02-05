@@ -1,5 +1,5 @@
 ![Galaxite PVP Pack](https://i.imgur.com/HmsUo8j.png)
-# [Version: 3.4.2]
+# [Version: 4.0.0]
 
 Unofficial PVP Pack for Galaxite
 
