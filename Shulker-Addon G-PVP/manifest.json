@@ -1,0 +1,28 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "[Version: 4.0.0]\nBordered Shulker Boxes for visibility.\nBy Legendile7\nContributors: Deltah, WhisperTrees\nJoin the Discord: §ediscord.overshock.games",
+        "name": "§lBordered Shulker Box §bAddon§r for §5Galaxite §rPVP Pack",
+        "uuid": "d54fa6ac-dc59-4307-a3af-b779a961c1c4",
+        "version": [4, 0, 0],
+        "min_engine_version": [ 1, 18, 0 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "b3722f5d-b4f8-4d52-8821-aa6ffceb3a09",
+            "version": [4, 0, 0]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "19bcfdff-fefd-4e71-9ac5-163cade99932",
+            "version": [4, 0, 0]
+        }
+    ],
+     "metadata": {
+          "authors": ["Legendile7", "WhisperTrees", "Deltah"],
+          "license": "CC BY-NC-SA 4.0"
+     }
+}
