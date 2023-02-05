@@ -9,7 +9,7 @@ Join the Discord: http://discord.overshock.games
 
 Try it with 'Laxite Sounds (by A2K Delta): http://bit.ly/3SQAM6C
 
-To use all modules quickly, download the Sweat Preset
+To use all modules quickly, download the Full Preset
 # Features:
 **Base Pack**:
 - Tier Colored Swords (can be disabled in settings)
