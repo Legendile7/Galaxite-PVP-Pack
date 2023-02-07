@@ -10,6 +10,11 @@ Join the Discord: http://discord.overshock.games
 Try it with 'Laxite Sounds (by A2K Delta): http://bit.ly/3SQAM6C
 
 To use all modules quickly, download the Full Preset
+
+Trailer:
+
+[![Galaxite PVP Pack Trailer](https://user-images.githubusercontent.com/56519032/217378591-415a924f-2769-44aa-b247-fabbcde72adc.png)](https://youtu.be/Ofnq2Y3c5HY)
+
 # Features:
 **Base Pack**:
 - Tier Colored Swords (can be disabled in settings)
