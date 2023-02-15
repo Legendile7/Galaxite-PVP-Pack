@@ -30,9 +30,9 @@ Trailer:
 - Improved Dasher Sounds
 
 **Sweat Addon**:
-- No Map Background (can be disabled in settings)
+- No Chat Background (can be disabled in settings)
 - No Hands (can be disabled in settings)
-- No Chat Background
+- No Map Background
 - Snowball and Ender Pearl textures for Accuracy & Visibility
 - Accurate Arrow 3D Model
 
