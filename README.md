@@ -1,13 +1,11 @@
 ![Galaxite PVP Pack](https://i.imgur.com/HmsUo8j.png)
-# [Version: 4.0.0]
+# [Latest Version: 4.0.2]
 
 Unofficial PVP Pack for Galaxite
 
 By Legendile7. Other Contributors: Deltah, WhisperTrees
 
 Join the Discord: http://discord.overshock.games
-
-Try it with 'Laxite Sounds (by A2K Delta): http://bit.ly/3SQAM6C
 
 To use all modules quickly, download the Full Preset
 
@@ -56,3 +54,9 @@ Trailer:
 - Converts Minecraft font to a more readible and visible font.
 
 ![Mint Sans Bold](https://user-images.githubusercontent.com/56519032/216826246-a0828894-24db-41f4-ba83-73e54b0c795c.png)
+
+# Download
+[Find the latest release](https://github.com/Legendile7/Galaxite-PVP-Pack/releases/latest) and download your selected packs. The `Base pack` is **required** for the addon packs to work. The `Full Pack` has no dependencies and can be used on its own.
+
+# Update
+Simply download a newer version, double click the mcpack file, and the pack will automatically update. Make sure Minecraft is closed before you do this.

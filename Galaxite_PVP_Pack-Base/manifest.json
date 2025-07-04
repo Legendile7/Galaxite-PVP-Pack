@@ -1,10 +1,10 @@
 {
     "format_version": 2,
     "header": {
-        "description": "[Version: 4.0.1] Contains Settings!\n§cNote: Put this pack below all addons!\n§rUnofficial PVP Pack for §5Galaxite§r.\nBy Legendile7\nContributors: Deltah, WhisperTrees\nJoin the Discord: §ediscord.overshock.games§r\nTry it with §b'Laxite Sounds§r (by A2K Delta): bit.ly/3SQAM6C",
+        "description": "[v4.0.2] Contains Settings!\n§cNote: Put this pack below all addons!\n§rUnofficial PVP Pack for §5Galaxite§r.\nBy Legendile7\nContributors: Deltah, WhisperTrees\nJoin the Discord: §ediscord.overshock.games§r",
         "name": " §5Galaxite §rPVP Pack  Base",
         "uuid": "19bcfdff-fefd-4e71-9ac5-163cade99932",
-        "version": [4, 0, 1],
+        "version": [4, 0, 2],
         "min_engine_version": [ 1, 18, 0 ]
     },
     "modules": [
@@ -12,7 +12,7 @@
             "description": "",
             "type": "resources",
             "uuid": "7ef94e46-d1ef-49fc-8cd8-a44b4a96ba7b",
-            "version": [4, 0, 1]
+            "version": [4, 0, 2]
         }
     ],
      "subpacks": [
@@ -48,7 +48,7 @@
           }
      ],
      "metadata": {
-          "authors": ["Legendile7", "WhisperTrees", "Deltah"],
+          "authors": ["Legendile7"],
           "license": "CC BY-NC-SA 4.0"
      }
 }
