@@ -1,7 +1,7 @@
 ![Galaxite PVP Pack](https://i.imgur.com/HmsUo8j.png)
-# [Latest Version: 4.0.2]
+# Latest Version: 4.0.2
 
-Unofficial PVP Pack for Galaxite
+*Unofficial PVP Pack for Galaxite*
 
 By Legendile7. Other Contributors: Deltah, WhisperTrees
 
@@ -15,8 +15,8 @@ Trailer:
 
 # Features:
 **Base Pack**:
-- Tier Colored Swords (can be disabled in settings)
-- Icy briding blocks (can be disabled in settings)
+- Tier Colored Swords (can be disabled in pack settings)
+- Icy briding blocks (can be disabled in pack settings)
 - Transparent UI (does not include transparent chat, that is in the Sweat Addon)
 - Brighter Nether textures
 - Low Fire
@@ -28,8 +28,8 @@ Trailer:
 - Improved Dasher Sounds
 
 **Sweat Addon**:
-- No Chat Background (can be disabled in settings)
-- No Hands (can be disabled in settings)
+- No Chat Background (can be disabled in pack settings)
+- No Hands (can be disabled in pack settings)
 - No Map Background
 - Snowball and Ender Pearl textures for Accuracy & Visibility
 - Accurate Arrow 3D Model
@@ -59,4 +59,4 @@ Trailer:
 [Find the latest release](https://github.com/Legendile7/Galaxite-PVP-Pack/releases/latest) and download your selected packs. The `Base pack` is **required** for the addon packs to work. The `Full Pack` has no dependencies and can be used on its own.
 
 # Update
-Simply download a newer version, double click the mcpack file, and the pack will automatically update. Make sure Minecraft is closed before you do this.
+Simply download a [newer version](https://github.com/Legendile7/Galaxite-PVP-Pack/releases/latest), double click the `.mcpack` file, and the pack will automatically update. Make sure Minecraft is closed before you do this!
