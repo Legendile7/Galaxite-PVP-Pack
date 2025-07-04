@@ -59,4 +59,4 @@ Trailer:
 [Find the latest release](https://github.com/Legendile7/Galaxite-PVP-Pack/releases/latest) and download your selected packs. The `Base pack` is **required** for the addon packs to work. The `Full Pack` has no dependencies and can be used on its own.
 
 # Update
-Simply download a [newer version](https://github.com/Legendile7/Galaxite-PVP-Pack/releases/latest), double click the `.mcpack` file, and the pack will automatically update. Make sure Minecraft is closed before you do this!
+Simply download a [newer version](https://github.com/Legendile7/Galaxite-PVP-Pack/releases/latest), double click the `.mcpack` file. Make sure Minecraft is closed before you do this! Then, open Minecraft, disable the old version, and activate the new one.
